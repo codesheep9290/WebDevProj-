@@ -1,0 +1,42 @@
+html{
+    background-color: #ffffff; 
+}
+body {
+    background-color: #eeeeee;
+    margin: 10px;      
+    border-radius: 5px;    
+    padding: 15px;
+    font: 16px Georgia, serif;
+    color: #333333; 
+    text-align: center;    
+}
+
+#title{
+    height: 50px;
+    line-height: 75px; 
+}
+
+#img-div{  
+   margin: 25px 10px 10px 10px;   
+   background-color: #ffffff;
+   border: 10px solid #ffffff;
+}
+#image{
+    max-width: 100%;
+    width: auto; 
+    height: auto; 
+}
+
+hr{ 
+    display: block;
+    margin: 5px 20px 5px 20px; 
+    border: 2px dashed; 
+}
+
+#tribute-info{
+    font-size: 20px;
+}
+
+.left-align{
+    text-align: left;
+}
